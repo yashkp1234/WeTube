@@ -1,0 +1,210 @@
+.full-container {
+  padding-left: 0em !important;
+  padding-right: 0em !important;
+  padding-top: 0em !important;
+  padding-bottom: 0em !important;
+  height: 90vh;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.test {
+  background: transparent !important;
+  height: 200 rem;
+}
+
+.MenuHome {
+  background: transparent !important;
+  border-color: transparent !important;
+}
+
+.menuBar {
+  opacity: 0.97;
+  border-color: transparent !important;
+  background: transparent !important;
+}
+
+.ui.secondary.inverted.pointing.menu .item {
+  color: whitesmoke !important;
+  font-size: 1.4rem !important;
+}
+
+.backgrounds {
+  opacity: 0.8 !important;
+  background: black !important;
+}
+
+body {
+  background: url(../src/images/mountain_peak_bw_156929_1920x1080.jpg) !important;
+}
+
+.card {
+  background: black !important;
+  opacity: 0.83 !important;
+  box-shadow: none !important;
+}
+
+.card_description {
+  color: aliceblue !important;
+  font-size: 1.2rem !important;
+  padding-bottom: 1rem;
+}
+
+.card_description_header {
+  color: aliceblue !important;
+  font-size: 1.4rem !important;
+}
+
+h1 {
+  color: white !important;
+  opacity: 1 !important;
+}
+
+.room {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 100% !important;
+}
+
+.roomSeg {
+  background: black !important;
+  opacity: 0.99 !important;
+  height: 100%;
+}
+
+.separate {
+  padding-top: 1rem !important;
+}
+
+.gridStyle {
+  height: 100%;
+}
+
+.player {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+
+  margin-left: 0 !important;
+  padding-left: -50em !important;
+  text-align: left !important;
+  vertical-align: top !important;
+  padding-bottom: 2em;
+}
+
+.player-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.seggy {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 95% !important;
+  display: inline-block;
+  text-align: left !important;
+  vertical-align: top !important;
+  padding-bottom: 1vh;
+}
+
+.whiteFont {
+  color: whitesmoke !important;
+  font-weight: bolder !important;
+}
+
+.roomButton {
+  background: whitesmoke !important;
+  color: black !important;
+}
+
+.roomIcon {
+  font-size: 2.8rem !important;
+}
+
+.roomInput {
+  width: 55% !important;
+  height: 50% !important;
+  color: aliceblue !important;
+}
+
+form {
+  margin: 0px;
+  padding: 0px;
+  display: inline !important;
+}
+
+.MuiSvgIcon-root {
+  margin-bottom: -0.5vh !important;
+  margin-top: 0.4vh;
+}
+
+.volumeSegement {
+  z-index: 100;
+  width: 20%;
+  margin: auto !important;
+  padding: 0.3rem !important;
+  display: inline-block;
+}
+
+.controlCol {
+  padding-top: 0em !important;
+  padding-bottom: 0.8em !important;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.controlSeg {
+  margin-right: 1rem !important;
+  margin-left: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.notification-item {
+  border: none !important;
+  opacity: 0.98 !important;
+}
+
+.notification-content,
+.notification-info,
+.notification-item .timer {
+  background: black !important;
+  background-color: black !important;
+}
+
+.notification-container-bottom-right {
+  opacity: 0.95 !important;
+}
+
+.webcam {
+  height: 70% !important;
+  width: 90% !important;
+}
+
+.ui-container {
+  overflow-x: overlay !important;
+  white-space: nowrap;
+}
+.reaction_card {
+  display: inline-block !important;
+  width: 25% !important;
+  margin: 1rem !important;
+  text-overflow: clip;
+  white-space: pre-wrap;
+}
+
+.addMarginTop {
+  margin-top: 2rem !important;
+}
+
+.copyClip {
+  cursor: pointer !important;
+  padding: 0 !important;
+}

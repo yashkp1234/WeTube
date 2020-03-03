@@ -1,0 +1,7 @@
+/ /
+/home /
+/login /login
+/register /login
+/logout /
+/room /
+/room/* /room/*
