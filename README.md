@@ -9,6 +9,6 @@
  
  Try it out here: https://wetubevideos.netlify.com/
  
- ![Image description](./example/example.png)
+ ![Image description](./example.jpg)
  
  
