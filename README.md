@@ -4,6 +4,9 @@
  
  Have you ever wanted to watch a YouTube video with your friend at the same time? What about a soundcloud song? WeTube does that and more by allowing users to watch videos and listen to music at the same time, and has webcam support. In addition to this WeTube utilizes face-api.js and ML to provide real time reactions to videos as you watch them!
  
+ 
+ Note: Webcam connection is buggy, will be fixed in the future.
+ 
  Try it out here: https://wetubevideos.netlify.com/
  
  ![Image description](./example/example.png)
